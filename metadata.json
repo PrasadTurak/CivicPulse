@@ -1,0 +1,5 @@
+{
+  "name": "CivicPulse",
+  "description": "A smart urban grievance system for citizens to report issues and for admins to manage service responses.",
+  "requestFramePermissions": ["geolocation", "camera"]
+}
